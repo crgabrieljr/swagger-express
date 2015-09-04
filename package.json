@@ -13,7 +13,7 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/apigee-127/swagger-express.git"
+    "url": "https://github.com/crgabrieljr/swagger-express.git"
   },
   "dependencies": {
     "swagger-node-runner": "git@github.com:crgabrieljr/swagger-node-runner.git"
