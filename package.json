@@ -16,7 +16,7 @@
     "url": "https://github.com/crgabrieljr/swagger-express.git"
   },
   "dependencies": {
-    "swagger-node-runner": "git@github.com:crgabrieljr/swagger-node-runner.git"
+    "swagger-node-runner": "git@stash.benefitfocus.com:7999/~cgabriel/swagger-node-runner.git"
   },
   "devDependencies": {
     "lodash": "^3.9.3",
